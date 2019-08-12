@@ -1,0 +1,5 @@
+[16-Feb-2017 03:40:16 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/bungle/public_html/massivedev.us/projects/bpa/includes/database-functions.php on line 58
+[16-Feb-2017 03:46:17 America/Chicago] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/bungle/public_html/massivedev.us/projects/bpa/includes/database-functions.php on line 58
+[16-Feb-2017 05:13:45 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home2/bungle/public_html/massivedev.us/projects/bpa/php/challenges.php on line 249
+[16-Feb-2017 05:16:04 America/Chicago] PHP Fatal error:  Call to a member function execute() on a non-object in /home2/bungle/public_html/massivedev.us/projects/bpa/php/challenges.php on line 249
+[16-Feb-2017 05:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home2/bungle/public_html/massivedev.us/projects/bpa/php/challenges.php on line 248
